@@ -1,5 +1,5 @@
 " Vim color file
-" Hyper dreams
+" hyperdreams
 " Created by Siggemasquirea with ThemeCreator (https://github.com/mswift42/themecreator)
 
 hi clear
